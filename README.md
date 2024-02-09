@@ -6,7 +6,7 @@ Here I only use Data TSP Simetris with the name file "att48.tsp"
 - Initial population generation: random initialization method
 - Selection: Roulette Wheel Selection
 - Crossover: Two Point Crossover
-- Mutation: Exchange Mutation
+- Mutation: Swap Mutation
 - Elitism
 
 
