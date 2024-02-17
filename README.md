@@ -9,6 +9,8 @@ Here I only use Data TSP Simetris with the name file "att48.tsp"
 - Mutation: Swap Mutation
 - Elitism
 
+📝File "Code_2.ipynb" is using genetic algorithm and also use selection, crossover and mutation operator like as "Code_1.ipynd", but here, I use GPM (Greedy Permuting Method) to initial population generation. And the result is better than when i use random initialization method. You can read a paper discussing GPM here https://ieeexplore.ieee.org/document/8473531/citations?tabFilter=papers#citations
+
 
 What I use✏️✏️✏️✏️✏️
 - Python 3.9.13
