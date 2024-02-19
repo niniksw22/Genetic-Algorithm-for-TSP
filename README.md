@@ -1,4 +1,4 @@
-<img width="534" alt="image" src="https://github.com/niniksw22/Genetic-Algorithm-for-TSP/assets/64420160/56ce56f9-b4c1-4f32-9081-26389aae0d88">This is a code of algorithm genetic for travel salesman problem and written in python language.
+This is a code of algorithm genetic for travel salesman problem and written in python language.
 I use TSPLIB benchmark as my data to evaluate the algorithm. you can check here http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/ to get another data of TSP such as in TSP Simetris or Asimetris.
 Here I only use Data TSP Simetris with the name file "att48.tsp"
 
