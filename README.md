@@ -15,7 +15,8 @@ Here I only use Data TSP Simetris with the name file "att48.tsp"
 
 📝File "Code_GPM + PMX.ipynb" is a file that run for genetic algorthm like as File "Code_GPM.ipynb" but in this file, PMX crossover used for this.
 
+💕Thanks for Daniel Obed Mensah who create code IPMX(by Behrooz Koohestani). Find the code here https://github.com/Myrrthud/Implementation-of-IPMX-Genetic-Algorithm/tree/main
 
-What I use✏️✏️✏️✏️✏️
+✏️✏️✏️✏️✏️ What I use ✏️✏️✏️✏️✏️
 - Python 3.9.13
 - anaconda 2022.10
